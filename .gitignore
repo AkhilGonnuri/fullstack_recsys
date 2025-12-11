@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+react-front/node_modules/
+
+# Environment Files
+.env
+
+# Database
+app.db
+*.sqlite
+
+# OS junk
+.DS_Store
+Thumbs.db

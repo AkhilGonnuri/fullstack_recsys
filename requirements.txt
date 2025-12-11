@@ -1,0 +1,15 @@
+Flask==1.1.2
+Flask-Bcrypt==0.7.1
+Flask-Cors==3.0.9
+Flask-Migrate==2.5.3
+Flask-Script==2.0.6
+Flask-SQLAlchemy==2.4.4
+
+numpy==1.26.4
+pandas==2.2.3
+python-dotenv==1.0.1
+requests==2.32.3
+scikit-learn==1.4.2
+scipy==1.11.4
+tqdm==4.66.5
+urllib3==2.2.3
